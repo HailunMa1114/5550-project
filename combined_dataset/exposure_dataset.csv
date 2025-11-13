@@ -1,0 +1,4 @@
+city,state,urban_ratio,densityMi,exposure_raw,exposure_index
+miami,Florida,0.1527,444.56131,67.884512037,0.8384560124905718
+new_orleans,Louisiana,0.1264,106.64313,13.479691632000002,0.0
+norfolk,Virginia,0.3482,225.06204,78.366602328,1.0

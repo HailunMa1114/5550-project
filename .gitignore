@@ -1,0 +1,11 @@
+# ignore huge raster files
+*.tif
+*.tiff
+
+# ignore macOS junk
+.DS_Store
+
+# ignore very raw NOAA data 
+oceanographic/noaa_raw/
+oceanographic/noaa_daily/
+

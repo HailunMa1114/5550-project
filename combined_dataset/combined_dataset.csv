@@ -1,0 +1,4 @@
+city,state,pixels_total,urban_pixels,urban_ratio,water_pixels,densityMi,population,TotalArea,tif_path
+miami,Florida,9244876,1411797,0.1527,2160554,444.56131,23839600.0,65758.0,/Users/helen/Desktop/5550 project/land_cover/land_cover_outputs/miami_landcover_2021.tif
+new_orleans,Louisiana,5387464,680802,0.1264,2695813,106.64313,4607410.0,52378.0,/Users/helen/Desktop/5550 project/land_cover/land_cover_outputs/new_orleans_landcover_2021.tif
+norfolk,Virginia,3085220,1074193,0.3482,1183875,225.06204,8887700.0,42775.0,/Users/helen/Desktop/5550 project/land_cover/land_cover_outputs/norfolk_landcover_2021.tif
